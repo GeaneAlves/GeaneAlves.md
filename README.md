@@ -1,7 +1,7 @@
-# GeaneAlves.md
-My profile
 
-Sou Geane Alves, tenho 41 anos de idade, uma Millennial contenplada com o título. ♒
+# My profile 🩻📜📎
+
+Sou Geane Alves, tenho 41 anos de idade, uma Millennial contenplada com o título. ♒ 👽
 
 
 # Pessoal 👩🏻‍🦰 
@@ -11,15 +11,18 @@ Sou Geane Alves, tenho 41 anos de idade, uma Millennial contenplada com o títul
 - Gosto de aprender novidades todos os dias 👩🏻‍💻 
 
 
-# Estudos
+# Estudos  📖📝 🧮
 - Licenciada em Letras 📖
-- Barista e Bartender de raiz  ☕ 🍹 🍸
+- Barista e Bartender raiz  ☕ 🍹 🍸
 - Estudante de Análise e Desenvolvimento de Sistemas 🖥️ 💻
 
 
 # Trabalho 🪪
 Sou auxiliar de tecnologia 🪪 🖥️ 🛜
 
+
+# Objetivo 🤖
+Me tornar programadora após os quarenta, aprender Python, HTML, CSS e JavaScprit entre outras.
 
 
 # Redes Sociais
@@ -32,4 +35,5 @@ Sou auxiliar de tecnologia 🪪 🖥️ 🛜
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
 </a>
 
+- Não uso muito redes sociais, elas me deixam muito ansiosa, eu gosto do Instagram, porém faz um tempo que não publico. Tenho usado mais o Linkedin, vendo as vagas de emprego, novidades e me conectando com pessoas da área da tenologia, todavia, tenho dificuldades em iniciar conversas com essas pessoas, sabendo a importância que tem o network, deveria ser mais fácil. 
 
